@@ -1,10 +1,5 @@
 /* Custom Giscus theme for danielconstantin.net (dark) */
-@import url("https://giscus.app/themes/dark_dimmed.css");
-
-body,
-main {
-  font-family: "Roboto Flex", Helvetica, Arial, sans-serif;
-}
+@import url("https://giscus.app/themes/transparent_dark.css");
 
 main {
   --color-fg-default: rgb(220, 220, 220);
