@@ -1,22 +1,15 @@
 /* Custom Giscus theme for danielconstantin.net (light) */
-@import url("https://giscus.app/themes/light.css");
+@import url("https://cdn.jsdelivr.net/gh/giscus/giscus@main/styles/themes/light.css");
 
 main {
-  --color-fg-default: rgb(0, 0, 0);
-  --color-fg-muted: rgb(69, 69, 69);
-  --color-canvas-default: rgb(235, 237, 239);
-  --color-canvas-subtle: rgb(253, 253, 253);
-  --color-canvas-inset: rgb(253, 253, 253);
-  --color-canvas-overlay: rgb(253, 253, 253);
-  --color-border-default: rgba(0, 0, 0, 0.12);
-  --color-border-muted: rgba(0, 0, 0, 0.08);
-  --color-accent-fg: #1976d2;
-  --color-accent-emphasis: #1976d2;
-  --color-btn-bg: rgb(253, 253, 253);
-  --color-btn-hover-bg: rgb(245, 246, 247);
-  --color-btn-border: rgba(0, 0, 0, 0.12);
-  --color-btn-primary-bg: #1976d2;
-  --color-btn-primary-hover-bg: #1565c0;
-  --color-btn-primary-border: rgba(0, 0, 0, 0.12);
-  --color-neutral-muted: rgba(0, 0, 0, 0.08);
+  --color-accent-fg: #2196f3;
+  --color-accent-emphasis: #2196f3;
+  --color-accent-muted: rgb(215, 215, 215);
+  --color-border-default: rgb(215, 215, 215);
+  --color-border-muted: rgb(225, 225, 225);
+  --color-canvas-default: rgba(245, 245, 245);
+  --color-canvas-inset: rgba(245, 245, 245);
+  --color-canvas-overlay: rgba(245, 245, 245);
+  --color-canvas-subtle: rgba(245, 245, 245);
+  --color-neutral-muted: rgb(235, 237, 239);
 }
