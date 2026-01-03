@@ -1,0 +1,27 @@
+/* Custom Giscus theme for danielconstantin.net (light) */
+@import url("https://giscus.app/themes/light.css");
+
+body,
+main {
+  font-family: "Roboto Flex", Helvetica, Arial, sans-serif;
+}
+
+main {
+  --color-fg-default: rgb(0, 0, 0);
+  --color-fg-muted: rgb(69, 69, 69);
+  --color-canvas-default: rgb(235, 237, 239);
+  --color-canvas-subtle: rgb(253, 253, 253);
+  --color-canvas-inset: rgb(253, 253, 253);
+  --color-canvas-overlay: rgb(253, 253, 253);
+  --color-border-default: rgba(0, 0, 0, 0.12);
+  --color-border-muted: rgba(0, 0, 0, 0.08);
+  --color-accent-fg: #1976d2;
+  --color-accent-emphasis: #1976d2;
+  --color-btn-bg: rgb(253, 253, 253);
+  --color-btn-hover-bg: rgb(245, 246, 247);
+  --color-btn-border: rgba(0, 0, 0, 0.12);
+  --color-btn-primary-bg: #1976d2;
+  --color-btn-primary-hover-bg: #1565c0;
+  --color-btn-primary-border: rgba(0, 0, 0, 0.12);
+  --color-neutral-muted: rgba(0, 0, 0, 0.08);
+}
