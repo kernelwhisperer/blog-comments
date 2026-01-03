@@ -1,11 +1,6 @@
 /* Custom Giscus theme for danielconstantin.net (light) */
 @import url("https://giscus.app/themes/light.css");
 
-body,
-main {
-  font-family: "Roboto Flex", Helvetica, Arial, sans-serif;
-}
-
 main {
   --color-fg-default: rgb(0, 0, 0);
   --color-fg-muted: rgb(69, 69, 69);
